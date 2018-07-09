@@ -1,0 +1,32 @@
+[[ 0.72642971  0.71211106  0.68097972  0.7003197 ]
+ [ 0.72017242  0.69016398  0.69807681  0.68410502]
+ [ 0.71302471  0.70866448  0.69696601  0.69631282]
+ [ 0.71575632  0.7136613   0.69883041  0.68707421]
+ [ 0.71932839  0.70145295  0.70033761  0.7009405 ]
+ [ 0.71268941  0.7126891   0.69886388  0.6919007 ]
+ [ 0.71164398  0.70595973  0.69974978  0.69406911]
+ [ 0.70064722  0.71103104  0.68446566  0.68676546]
+ [ 0.71003639  0.70425506  0.68160962  0.68731317]
+ [ 0.69890773  0.69488639  0.69103942  0.6812775 ]]
+[0 0 0 0 0 0 0 1 0 0]
+This fold use hyperparameter: 100, 0.01
+[Fold 1/10 Prediciton, AUC score: 0.71286122984]
+This fold use hyperparameter: 100, 0.01
+[Fold 2/10 Prediciton, AUC score: 0.717176687482]
+This fold use hyperparameter: 100, 0.01
+[Fold 3/10 Prediciton, AUC score: 0.711655957603]
+This fold use hyperparameter: 100, 0.01
+[Fold 4/10 Prediciton, AUC score: 0.733453391449]
+This fold use hyperparameter: 100, 0.01
+[Fold 5/10 Prediciton, AUC score: 0.726364874366]
+This fold use hyperparameter: 100, 0.01
+[Fold 6/10 Prediciton, AUC score: 0.707164671304]
+This fold use hyperparameter: 100, 0.01
+[Fold 7/10 Prediciton, AUC score: 0.715730830518]
+This fold use hyperparameter: 100, 0.001
+[Fold 8/10 Prediciton, AUC score: 0.722638048674]
+This fold use hyperparameter: 100, 0.01
+[Fold 9/10 Prediciton, AUC score: 0.729868594141]
+This fold use hyperparameter: 100, 0.01
+[Fold 10/10 Prediciton, AUC score: 0.695001118048]
+Mean AUC score for NN: 0.717191540342 0.0108786539055
